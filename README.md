@@ -73,9 +73,9 @@ To run these animations locally, you need to have Python and Manim installed on 
 
 You can watch the animations directly by visiting the links below:
 
-- [Animation 1: Integration - Exercise 1 | ![Equation](https://latex.codecogs.com/svg.latex?\int \frac{x}{1+x})](https://youtube.com/shorts/yqMt-yXH0kw)
-- [Animation 2: Integration - Exercise 2 | ![Equation](https://latex.codecogs.com/svg.latex?\int \frac{x}{1+x^2})](https://youtube.com/shorts/f1v3oJN4JnY)
-- [Animation 3: Integration - Exercise 3 | ![Equation](https://latex.codecogs.com/svg.latex?\int \frac{1}{1+x^3})](https://youtube.com/shorts/hBQ-MUfFDJY)
+- [Animation 1: Integration - Exercise 1 | ![Equation](https://latex.codecogs.com/svg.latex?\frac{x}{1+x})](https://youtube.com/shorts/yqMt-yXH0kw)
+- [Animation 2: Integration - Exercise 2 | ![Equation](https://latex.codecogs.com/svg.latex?\frac{x}{1+x^2})](https://youtube.com/shorts/f1v3oJN4JnY)
+- [Animation 3: Integration - Exercise 3 | ![Equation](https://latex.codecogs.com/svg.latex?\frac{1}{1+x^3})](https://youtube.com/shorts/hBQ-MUfFDJY)
   
 Alternatively, you can clone this repository and run the animations locally using the instructions provided in the [Installation](#installation) section.
 
