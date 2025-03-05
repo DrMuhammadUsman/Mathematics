@@ -63,9 +63,9 @@ To run these animations locally, you need to have Python and Manim installed on 
 4. **Run an Animation**:
    Use the following command to render an animation:
    ```bash
-   manim -pql <filename>.py <SceneName>
+   manim -pqh <filename>.py <SceneName> -r 1080,1920
    ```
-   Replace `<filename>` with the name of the Python file and `<SceneName>` with the specific scene you want to render.
+   Replace `<filename>` with the name of the Python file and `<SceneName>` with the specific scene you want to render in 16:9 (portrait).
 
 ---
 
@@ -73,10 +73,10 @@ To run these animations locally, you need to have Python and Manim installed on 
 
 You can watch the animations directly by visiting the links below:
 
-- [Animation 1: Title](https://youtube.com/link-to-animation-1)
-- [Animation 2: Title](https://youtube.com/link-to-animation-2)
-- [Animation 3: Title](https://youtube.com/link-to-animation-3)
-
+- [Animation 1: Integration - Exercise 1 | ![Equation](https://latex.codecogs.com/svg.latex?\int \frac{x}{1+x})](https://youtube.com/shorts/yqMt-yXH0kw)
+- [Animation 2: Integration - Exercise 2 | ![Equation](https://latex.codecogs.com/svg.latex?\int \frac{x}{1+x^2})](https://youtube.com/shorts/f1v3oJN4JnY)
+- [Animation 3: Integration - Exercise 3 | ![Equation](https://latex.codecogs.com/svg.latex?\int \frac{1}{1+x^3})](https://youtube.com/shorts/hBQ-MUfFDJY)
+  
 Alternatively, you can clone this repository and run the animations locally using the instructions provided in the [Installation](#installation) section.
 
 ---
